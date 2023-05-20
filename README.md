@@ -6,9 +6,9 @@ Automated tests and reports performed on "https://highlifeshop.com/speedbird-caf
   -Having Behave module installed on our project environment.
   -Having Allure behave installed on our project environment.
 
-# 1-Run Allure-Behave reporting algorythm
+# 1-Run Allure-Behave reporting algorithm
 
-To run Allure-Behave reporting algorythm we should first run this command on terminal, inside our project folder:
+To run Allure-Behave reporting algorithm we should first run this command on terminal, inside our project folder:
 
    <i>behave -f allure_behave.formatter:AllureFormatter -o reports/ features </i>
    
