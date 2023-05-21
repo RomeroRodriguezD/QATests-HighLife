@@ -1,22 +1,22 @@
 # QA Tests - High Life Shop - Allure UI
 Automated tests and reports performed on "https://highlifeshop.com/speedbird-cafe" using Selenium, Behave and Allure.
 
-# 0-Pre-requisites
+# Pre-requisites
 
   -Having Behave module installed on our project environment.
   -Having Allure behave installed on our project environment.
 
-# 1-Run Allure-Behave reporting algorithm
+# Run Allure-Behave reporting algorithm
 
 To run Allure-Behave reporting algorithm we should first run this command on terminal, inside our project folder:
 
    <i>behave -f allure_behave.formatter:AllureFormatter -o reports/ features </i>
    
-# 2-This will perform our tests and create JSON reports
+# This will perform our tests and create JSON reports
 
 ![image](https://github.com/RomeroRodriguezD/QATests-HighLife/assets/105886661/e50a33d2-fccd-4afc-acf9-beebcbfd65c6)
 
-# 3-Once we got the reports, we could set up the UI from Allure on our localhost and get interesting insights
+# Once we got the reports, we could set up the UI from Allure on our localhost and get interesting insights
 
 Set up the UI with this command:
 
