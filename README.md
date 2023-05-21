@@ -3,7 +3,7 @@ Automated tests and reports performed on "https://highlifeshop.com/speedbird-caf
 
 # Pre-requisites
 
-  -Having Behave module installed on our project environment.
+  -Having Behave module installed on our project environment. <br>
   -Having Allure behave installed on our project environment.
 
 # Run Allure-Behave reporting algorithm
