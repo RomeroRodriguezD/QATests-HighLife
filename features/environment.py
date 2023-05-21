@@ -1,7 +1,7 @@
 from behave import *
 from support.fixtures import TestMethods
 
-"""This fail sets the main '@Given' for each test step, which includes running a webdriver with our
+"""This code sets the main '@Given' for each test step, which includes running a webdriver with our
    landing page.
 """
 
