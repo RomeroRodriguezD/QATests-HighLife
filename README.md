@@ -16,7 +16,7 @@ To run Allure-Behave reporting algorithm we should first run this command on ter
 
 ![image](https://github.com/RomeroRodriguezD/QATests-HighLife/assets/105886661/e50a33d2-fccd-4afc-acf9-beebcbfd65c6)
 
-# Once we got the reports, we could set up the UI from Allure on our localhost and get interesting insights
+# Once we got the reports, we could set up the UI from Allure on our localhost and get useful insights
 
 Set up the UI with this command:
 
