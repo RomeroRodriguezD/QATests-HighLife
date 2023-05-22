@@ -6,6 +6,7 @@ from behave import *
 import requests
 import random
 from time import sleep
+
 class TestMethods:
     @fixture
     def selenium_browser_firefox(self, context):
