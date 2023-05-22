@@ -58,7 +58,7 @@ class TestMethods:
 
     @fixture
     def scrolling(self, context):
-        """Scroll down the page. It will do it the exact number of times needed, although down below
+        """Scrolls down the page. It will do it the exact number of times needed, although down below
            we could see a generic approach to the scrolling feature.
         """
         iterations = 2
